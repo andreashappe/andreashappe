@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andreas, I am a software developer gone pen-tester.
+I'm Andreas, software developer gone pen-tester.
 
 🔭🌱👯 I am currently working on using [Offensive AI for Security](https://github.com/ipa-lab/hackingBuddyGPT) as par tof my phd thesis
 
