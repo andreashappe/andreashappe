@@ -4,7 +4,7 @@ I'm Andreas, I am a software developer gone pen-tester.
 
 🔭🌱👯 I am currently working on using [Offensive AI for Security](https://github.com/ipa-lab/hackingBuddyGPT) as par tof my phd thesis
 
-#### About me
+#### Random Stuff about me
 
 - Got my master degree in Software Engineering from the Technical University of Vienna, Austria
 - After some years of software development slowly turned into a penetration-tester, focusing upon web security
