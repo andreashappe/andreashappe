@@ -2,10 +2,13 @@
 
 I'm Andreas, software developer gone pen-tester.
 
-🔭🌱👯 I am currently working on using [Offensive AI for Security](https://github.com/ipa-lab/hackingBuddyGPT) as par tof my phd thesis
+🔭🌱👯 I am currently working on using [Offensive AI for Security](https://github.com/ipa-lab/hackingBuddyGPT) as part of my phd thesis
+
+I honestly care about security. If you like my work and are lucky enough to be able to fund others, I'd appreciate sponsorship through my [github sponsor page](https://github.com/sponsors/andreashappe/).
 
 #### Random Stuff about me
 
+- Original Author of [hackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT), allowing pen-testers to experiment with using LLMs in 50 lines of code or less
 - Got my master degree in Software Engineering from the Technical University of Vienna, Austria
 - After some years of software development slowly turned into a penetration-tester, focusing upon web security
 - Taught multiple web security classes at the University of Applied Sciences Vienna / Technikum Wien
